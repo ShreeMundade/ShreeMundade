@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://www.canva.com/design/DAFQiciu_zk/Y-A-P327aIWPam5LPRgx2A/view?utm_content=DAFQiciu_zk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="Renocrew"/> </p>
+<p align="left"> <img src="reno.png" alt="Renocrew"/> </p>
 
 <h1 align="center">Hi 👋, I'm Shree Mundade</h1>
 <h3 align="center">Founder of Renocrew Solutions LLP | Java Full-Stack Developer | 7 x Microsoft Azure Certified | Angular | Android</h3>
