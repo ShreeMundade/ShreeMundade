@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreeMundade](https://github.com/ShreeMundade)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shree-mundade-87b6771a5/](https://www.linkedin.com/in/shree-mundade-87b6771a5/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/shree-mundade-87b6771a5/](https://www.linkedin.com/in/shreem-/
 
 - 💬 Ask me about **Angular,React.js,Node,js,Prisma,PostgreSQL**
 
-- 📫 How to reach me **shreemundade@gmail.com**
+- 📫 How to reach me **shree@renocrewsolutions.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SlmqTK3knFf0ivauK_k0Yon8VmItMPvg/view?usp=share_link](https://drive.google.com/file/d/1SlmqTK3knFf0ivauK_k0Yon8VmItMPvg/view?usp=share_link)
 
